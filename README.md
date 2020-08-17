@@ -1,0 +1,2 @@
+# Mall Customer Segmentation Data
+ 
